@@ -6,7 +6,7 @@
 ~*
 *.diff
 *.patch
-*.bak
+*.bakddd
 .DS_Store
 Thumbs.db
 .project
